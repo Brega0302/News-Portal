@@ -167,8 +167,4 @@ Za trajno čuvanje podataka, možete dodati Supabase integraciju:
 2. Dodajte environment varijable
 3. Zamijenite localStorage funkcije sa Supabase API pozivima
 
-## Licenca
 
-MIT License - slobodno koristite i modificirajte po potrebi.
-
----
